@@ -10,7 +10,7 @@ module.exports = {
 ,
     spotify: {
         clientId: process.env.143b00d8f26149d8829a05eaf23f05ee,
-        clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
+        clientSecret: process.env.11ad76b41d294faaace39b03d3a2ee22,
     },
     cookies:{
         domain: ".youtube.com",
