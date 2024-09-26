@@ -3,13 +3,13 @@ require('dotenv').config();
 
 module.exports = {
     token: '',
-    clientId: '1273230302822797312',
+    clientId: '143b00d8f26149d8829a05eaf23f05ee',
     guildId: '1106591466651922502',
     youtubeApiKey: process.env.AIzaSyAEH8lY6zT8D7gG4d9SzMaSpjNPuXZcb-c,
     mongoUri: process.env.mongodb+srv://Krish_2121:krish1234@cluster0.80tki7p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 ,
     spotify: {
-        clientId: process.env.SPOTIFY_CLIENT_ID,
+        clientId: process.env.143b00d8f26149d8829a05eaf23f05ee,
         clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
     },
     cookies:{
